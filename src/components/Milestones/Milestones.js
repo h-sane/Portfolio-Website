@@ -57,6 +57,15 @@ const certificates = [
     description: "Earners of this certification have a fundamental understanding of IT services and their uses in the AWS Cloud. They demonstrated cloud fluency and foundational AWS knowledge.",
     image: require("../../Assets/certificates/aws.png"),
     credentialUrl: "https://www.credly.com/badges/your-credential-id/"
+  },
+  {
+    id: 5,
+    title: "Data Analysis Professional Certificate",
+    issuer: "Google",
+    date: "2024",
+    description: "Completed comprehensive training in data analysis including data cleaning, analysis, visualization, and using tools like spreadsheets, SQL, and R programming. Gained hands-on experience with data-driven decision making.",
+    image: require("../../Assets/certificates/analysis.png"),
+    credentialUrl: "https://drive.google.com/file/d/1Z3125Z-12HhiAG2640YLY5V2dEprEIwB/view?usp=sharing"
   }
   // Add more certificates below this line
 ];
