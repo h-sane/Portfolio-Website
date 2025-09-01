@@ -49,6 +49,15 @@ const certificates = [
     image: require("../../Assets/certificates/basics-of-ds.png"),
     credentialUrl: "https://drive.google.com/file/d/1lG-XsaM9rSF13FPtXPEcqM2-DypZxoNP/view?usp=sharing"
   },
+  {
+    id: 4,
+    title: "AWS Certified Cloud Practitioner",
+    issuer: "Amazon Web Services (AWS)",
+    date: "2024",
+    description: "Earners of this certification have a fundamental understanding of IT services and their uses in the AWS Cloud. They demonstrated cloud fluency and foundational AWS knowledge.",
+    image: require("../../Assets/certificates/aws.png"),
+    credentialUrl: "https://www.credly.com/badges/your-credential-id/"
+  }
   // Add more certificates below this line
 ];
 
